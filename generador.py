@@ -1,4 +1,4 @@
-import reandom
+import random
 import string
 
 class GeneradorContrasenas:
